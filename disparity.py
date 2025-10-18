@@ -6,6 +6,7 @@
 #     "pandas==2.3.3",
 #     "plotly==6.3.1",
 #     "scikit-learn==1.7.2",
+#     "nbconvert",
 # ]
 # ///
 
